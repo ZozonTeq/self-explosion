@@ -1,0 +1,9 @@
+name: DontAttack
+version: ${project.version}
+main: com.zozonteq.dontattack.DontAttack
+api-version: 1.16
+commands:
+  dontattack:
+    description: 設定コマンド
+    aliases:
+      - donta
