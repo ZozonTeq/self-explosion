@@ -6,4 +6,4 @@ https://twitter.com/i/status/1389463251377741825
 # コマンド
 /donta set power [威力] で爆発の威力を設定できます。
 # ダウンロード
-https://github.com/takaha4010/self-explosion/blob/main/dontHit/target/dontAttack-1.0-SNAPSHOT.jar
+https://github.com/zozonteq/self-explosion/blob/main/dontHit/target/dontAttack-1.0-SNAPSHOT.jar
